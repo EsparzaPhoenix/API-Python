@@ -1,5 +1,17 @@
 # Projeto: AImpress
 
+## Integrantes:
+
+552421 - Flavio Sousa Vasconcelos
+
+552368 - WELLINGTON DE OLIVEIRA URCINO DA SILVA
+
+97887 - João Carlos França Figueiredo
+
+550200 - Leonardo Oliveira Esparza
+
+# Descrição
+
 Este projeto é uma aplicação web desenvolvida em Python utilizando o framework Flask. A aplicação conecta-se a um banco de dados SQL Azure para gerenciar informações de usuários e seus respectivos currículos. Ela permite realizar operações CRUD (Create, Read, Update, Delete) nas tabelas Usuario e Curriculo, além de executar consultas que relacionam os dados dessas tabelas através de operações JOIN.
 
 ## Componentes Principais
